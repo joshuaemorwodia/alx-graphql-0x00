@@ -1,8 +1,8 @@
-# Character Queries
+# Characters Paginated Queries
 
-This project contains GraphQL queries to fetch character data using their ID from the Rick and Morty API.
+This folder contains GraphQL queries to retrieve a paginated list of characters from the Rick and Morty API.
 
 ## Files
 
-- `character-id-1.graphql` to `character-id-4.graphql`: Contains GraphQL queries for each character.
-- `character-id-1-output.json` to `character-id-4-output.json`: Contains the JSON responses from the API.
+- `characters-page-1.graphql` to `characters-page-4.graphql`: Contains queries for pages 1 to 4
+- `characters-page-1-output.json` to `characters-page-4-output.json`: Contains the API responses
