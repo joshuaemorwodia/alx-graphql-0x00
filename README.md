@@ -1,8 +1,9 @@
-# Character Queries
+# Episode Query
 
-This project contains GraphQL queries to fetch character data using their ID from the Rick and Morty API.
+This folder contains a GraphQL query to fetch a specific episode by ID from the Rick and Morty API.
 
 ## Files
 
-- `character-id-1.graphql` to `character-id-4.graphql`: Contains GraphQL queries for each character.
-- `character-id-1-output.json` to `character-id-4-output.json`: Contains the JSON responses from the API.
+- `episode-id-1.graphql`: The GraphQL query for episode ID 1
+- `episode-id-1-output.json`: The output/response from the API
+
